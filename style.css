@@ -1,6 +1,26 @@
 p{
-    color: #ffd30e;
+    
+    display: inline;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 100px;
 }
 #love{
     color: palevioletred;
+}
+#hate{
+    color: blue;
+}
+img{
+    max-width: 100px;
+    max-height: 100px;
+    padding: auto;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    margin-right: 0px;
+    display: inline;
+}
+#img{
+   display: inline;
 }
